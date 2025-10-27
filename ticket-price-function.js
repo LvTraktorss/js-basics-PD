@@ -10,5 +10,5 @@ if(visitorAge <6){
 }
 }
 
-printTicketPrice
-printTicketPrice
+printTicketPrice(12, Boolean(true))
+printTicketPrice(35, Boolean, false)
