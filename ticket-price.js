@@ -4,7 +4,7 @@ letisStudent= Boolean(0);
 
 if(visitorAge <6){
      console.log("ieeja ir bezmaksas");
-} else {
+} else if (isStudent ==true){
      console.log("ieejas cena ir 5 EUR");
 } else{
      console.log("ieejas cena  ir 10 EUR");
